@@ -9,3 +9,29 @@ body {
   background-color: black;
   color: white;
 }
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+button {
+  padding: 10px;
+}
+
+.buttonSpot {
+  margin: 20px;
+}
+
+.display {
+  border: solid 3px white;
+}
